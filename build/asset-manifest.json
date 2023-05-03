@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NekKkMirror/blog-client/static/css/main.e7d94073.chunk.css",
+    "main.js": "/NekKkMirror/blog-client/static/js/main.7441f20e.chunk.js",
+    "main.js.map": "/NekKkMirror/blog-client/static/js/main.7441f20e.chunk.js.map",
+    "runtime-main.js": "/NekKkMirror/blog-client/static/js/runtime-main.392c50a8.js",
+    "runtime-main.js.map": "/NekKkMirror/blog-client/static/js/runtime-main.392c50a8.js.map",
+    "static/css/2.679831fc.chunk.css": "/NekKkMirror/blog-client/static/css/2.679831fc.chunk.css",
+    "static/js/2.f5409e3e.chunk.js": "/NekKkMirror/blog-client/static/js/2.f5409e3e.chunk.js",
+    "static/js/2.f5409e3e.chunk.js.map": "/NekKkMirror/blog-client/static/js/2.f5409e3e.chunk.js.map",
+    "index.html": "/NekKkMirror/blog-client/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/NekKkMirror/blog-client/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.e7d94073.chunk.css.map": "/NekKkMirror/blog-client/static/css/main.e7d94073.chunk.css.map",
+    "static/js/2.f5409e3e.chunk.js.LICENSE.txt": "/NekKkMirror/blog-client/static/js/2.f5409e3e.chunk.js.LICENSE.txt",
+    "static/media/logo.a1c20189.svg": "/NekKkMirror/blog-client/static/media/logo.a1c20189.svg",
+    "static/media/main.c15b52bc.svg": "/NekKkMirror/blog-client/static/media/main.c15b52bc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.392c50a8.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.f5409e3e.chunk.js",
+    "static/css/main.e7d94073.chunk.css",
+    "static/js/main.7441f20e.chunk.js"
+  ]
+}
